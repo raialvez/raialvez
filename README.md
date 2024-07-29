@@ -1,7 +1,6 @@
 ## Hi there 👋
-
 **raialvez/raialvez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+meu nome e rai tenho 15 anos i sou aluno do oscarlina
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
