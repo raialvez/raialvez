@@ -1,8 +1,5 @@
 ## me chamo rai
 **raialvez/raialvez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-tenho 15 anos
-sou aluno da escola oscalina
-e minha caracteristica e jogar futboll
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
